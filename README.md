@@ -1,4 +1,4 @@
-# Mendoza River Basin: Water Stress Analysis and Prediction
+# Is the Mendoza River Basin Becoming More Water-Stressed?
 
 Hydrological analysis of Argentina's Mendoza River Basin using ERA5 reanalysis data.
 
