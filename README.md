@@ -1,6 +1,6 @@
 # Is the Mendoza River Basin Becoming More Water-Stressed?
 
-![Dashboard](outputs/figures/00_hero_dashboard.png)
+![Dashboard](outputs/figures/dashboard.png)
 
 Hydrological analysis of Argentina's Mendoza River Basin using ERA5 reanalysis data. 
 
