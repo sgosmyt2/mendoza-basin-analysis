@@ -64,11 +64,11 @@ ERA5 Reanalysis Copernicus
 
  ## Notebooks
 
-1: Data Collection - ERA5 download via CDS API, unit conversion, quality checks 
-2: Exploratory Analysis - Seasonal climatology, long term trends, variable correlations 
-3: Drought Indices - SPI/SPEI computation, drought event catalog, frequency analysis        
-4: ML Forecasting - Supervised drought prediction with baseline comparison  
-5: Anomaly Detection - Unsupervised identification of unusual climate conditions    
+1: Data Collection - ERA5 download via CDS API, unit conversion, quality checks  
+2: Exploratory Analysis - Seasonal climatology, long term trends, variable correlations   
+3: Drought Indices - SPI/SPEI computation, drought event catalog, frequency analysis   
+4: ML Forecasting - Supervised drought prediction with baseline comparison   
+5: Anomaly Detection - Unsupervised identification of unusual climate conditions   
 
 ## Setup
 ```bash
