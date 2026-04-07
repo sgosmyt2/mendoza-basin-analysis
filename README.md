@@ -1,5 +1,7 @@
 # Is the Mendoza River Basin Becoming More Water-Stressed?
 
+![Dashboard](outputs/figures/00_hero_dashboard.png)
+
 Hydrological analysis of Argentina's Mendoza River Basin using ERA5 reanalysis data. 
 
 The Mendoza River Basin supplies water to over 1 million people and irrigates one of Argentina's most productive agricultural regions. The basin depends on Andean snowmelt and summer rainfall, making it highly sensitive to climate variability. This project investigates whether water stress is increasing and whether drought conditions can be predicted in advance.
