@@ -143,8 +143,8 @@ ax.legend(fontsize=10)
 
 ax = fig.add_subplot(gs[1, 2])
 models = ["Climatology", "Persistence", "Ridge", "Random\nForest", "Gradient\nBoosting"]
-skill_clim = [0, 0.321, 0.008, 0.337, 0.389]
-skill_persist = [-0.474, 0, -0.462, 0.023, 0.100]
+skill_clim = [0, 0.321, 0.008, 0.337, 0.411]
+skill_persist = [-0.474, 0, -0.462, 0.023, 0.132]
 x = np.arange(len(models))
 width = 0.35
 bars1 = ax.bar(
