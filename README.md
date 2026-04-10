@@ -43,15 +43,15 @@ ERA5 Reanalysis Copernicus
 
 ### Machine Learning Drought Forecasting
 
-**Target**: SPI3 (3 Month Lead)
-**Best Model**: Random Forest
-**Skill vs Climatology**: 16.7%
-**Skill vs Persistence**: 24.5%
+**Target**: SPI3 (3 Month Lead)  
+**Best Model**: Random Forest  
+**Skill vs Climatology**: 16.7%  
+**Skill vs Persistence**: 24.5%  
 
-**Target**: SPI6 (3 Month Lead)
-**Best Model**: Gradient Boosting
-**Skill vs Climatology**: 41.1%
-**Skill vs Persistence**: 13.2%
+**Target**: SPI6 (3 Month Lead)  
+**Best Model**: Gradient Boosting  
+**Skill vs Climatology**: 41.1%  
+**Skill vs Persistence**: 13.2%  
 
 - **Short term drought (SPI3)** is predictable 3 months ahead, Random Forest reduces the error by 24% compared to naive persistence 
 - **Medium term drought (SPI6)** is harder because consecutive values share 50% of their precipitation window, making persistence a strong baseline. Gradient Boosting still achieves 10% improvement, indicating genuine predictive signal about drought evolution 
